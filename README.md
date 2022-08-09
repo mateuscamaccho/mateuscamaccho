@@ -1,5 +1,11 @@
-## Olá eu sou o Mateus Camacho, desenvolvedor Web Front-end!👨‍💻
+<!-- ## Olá eu sou o Mateus Camacho, desenvolvedor Web Front-end!👨‍💻 -->
 <div align="center">
+  
+   ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=000080&vCenter=true&width=700&height=70&lines=Olá,+sou+o+Mateus+Camacho!;Seja+bem-vindo(a)+ao+meu+Github.)](https://git.io/typing-svg)
+
+  
   <a href="https://github.com/mateuscamaccho">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscamaccho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscamaccho&layout=compact&langs_count=7&theme=algolia"/>
