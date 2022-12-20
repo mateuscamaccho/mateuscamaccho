@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TMInformatica.<br>🌱 I’m currently learning React and SASS.
+🔭 I’m currently working on TMInformatica.<br>🌱 I’m currently learning React,SASS, NodeJs and Typescript.
 
 
 ## 🌐 Socials:
