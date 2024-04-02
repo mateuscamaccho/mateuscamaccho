@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TMInformatica.<br>🌱 I’m currently learning React, SASS, NodeJs and Typescript.
+🔭 I’m currently working on ICOM Marketing.<br>🌱 I’m currently learning React, SASS, NodeJs and Typescript.
 
 
 ## 🌐 Socials:
